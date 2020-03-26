@@ -1,0 +1,19 @@
+
+修改仓库
+
+git remote set-url origin git@github.com:cataclyzh/qd_portdata.git
+
+
+查看并删除远程仓储
+git remote 查看远程并显示出远程的别名
+
+git remote rm 别名(一般就是origin)
+
+git remote add origin  https://github.com/pingxingshijiewuzhi/learnTypeScript.git
+
+
+git remote -v
+
+提交到远程仓库
+
+git push -u origin master
